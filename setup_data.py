@@ -28,3 +28,4 @@ def add_months():
 if __name__ == "__main__":
     change_seasons()
     convert_dates()
+    add_months()
